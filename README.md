@@ -1,48 +1,6 @@
-#### The Deployed Version of the app is [here](https://ipl-dash.web.app/).
+#### The Deployed Version of the app is [here](https://covid-19-tracker-15ba1.firebaseapp.com/)
 
 
-
-### List of all the Libraries/Frameworks used to create this projects
-
-1. **Pandas and Numpy**.
-
-   - To maipulate the given data and create a new dataframe with all the information needed specifically for the project.
-
-2. **Node.js**
-
-   - The Javascript runtime environment is used to have all the required libraries for front end development.
-
-3. **React.js**
-
-   - The front end Javascript framework used to make this project. I don't Know vue.js but I am ready to learn anytime. :)
-   
-4. **Material UI**
-   
-   - Almost everything in this project is displayed inside a Card component which is imported from Material UI.
-   
-5. **Chart.js**
-   
-   - To give a visual representation of the data to the user which provides a better user experience and understanding.
-   
-   
-   
-### Bonus points in the project
-
-1. **Loading Time Optimization**.
-
-   - After the completion of the project, I ran the project in the production server(optimized server) and saved all the data in a file.
-   - The project is hosted in [firebase](https://firebase.google.com/) which provides loading time optimization to the project when it is hosted.
-
-2. **Mobile Responsive**
-
-   - The project is made to run and have a good user experience in both desktop and mobiles.
-   - I used [Media Query](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) to make the web app responsive.
-
-3. **Offline usable**
-
-   - All the data used in the project are stored in a folder and I am not using API request so that the project will run offline as well.
-  
-  
   
 ### General Setup
 
