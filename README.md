@@ -1,3 +1,5 @@
+# COVID-19 TRACKER
+
 #### The Deployed Version of the app is [here](https://covid-19-tracker-15ba1.firebaseapp.com/)
 
 
